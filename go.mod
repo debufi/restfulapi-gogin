@@ -1,4 +1,4 @@
-module example/web-service-gin
+module example/restfulapi-gogin
 
 go 1.18
 
